@@ -49,3 +49,4 @@ sudo ufw allow 8000 # port for start project
 Import an existing, unversioned code project into Bitbucket Server
 git remote add origin git@bitbucket.org:m_martsul/intericstesttask.git
 git push -u origin master
+
