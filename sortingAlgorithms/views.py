@@ -1,7 +1,6 @@
 from django.shortcuts import render, HttpResponse
 import random
 
-
 def arrayValues():
     ary = []
     for i in range(0, 150):
